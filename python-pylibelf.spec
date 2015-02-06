@@ -3,7 +3,7 @@
 
 Name:		python-%{module}
 Version:	0.1
-Release:	1
+Release:	2
 Summary:	An ELF parser for python that uses the libelf library
 Source0:	http://eggy.yolky.org/pylibelf/static/docs/_downloads/pylibelf-full.tar.bz2
 Url:		http://eggy.yolky.org/pylibelf/
